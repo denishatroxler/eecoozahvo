@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ieboghaef.liamjs.com/sitemap.xml
